@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Lunar Calendar</string>
+    <string name="mycalendar">myCalendar</string>
+    <string name="check_date">Check Date</string>
+    <string name="activity_2">Activity_2</string>
+    <string name="check">Check</string>
+    <string name="result">Result</string>
+    <string name="check_lunar_info">Check Lunar Info</string>
+    <string name="your_lunar">Your Lunar</string>
 </resources>
